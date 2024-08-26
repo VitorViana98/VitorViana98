@@ -1,4 +1,4 @@
-## Olá! Eu sou o Vítor, engenheiro eletricista e desenvolvedor web!
+## Olá! Eu sou o Vítor, engenheiro eletricista e desenvolvedor WEB
 <div align="center">
   <a href="https://github.com/VitorViana98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorViana98&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -22,4 +22,6 @@
   <a href="https://instagram.com/vaivitor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vitor.viana.barbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitorvianabarbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  ![Vitor](https://komarev.com/ghpvc/?username=VitorViana98)
 </div>
