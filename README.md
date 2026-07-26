@@ -1,27 +1,42 @@
-## Olá! Eu sou o Vítor, engenheiro eletricista e desenvolvedor WEB
-<div align="center">
-  <a href="https://github.com/VitorViana98">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorViana98&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorViana98&layout=compact&langs_count=7&theme=dark"/>
-  </a> 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vitor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Vitor-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Vitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="right" alt="Vitor-pic" height="150" style="border-radius:100px;" src="https://pbs.twimg.com/profile_images/1293708642093588480/7dOW7ybA_400x400.jpg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/vaivitor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:vitor.viana.barbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitorvianabarbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Vitor](https://komarev.com/ghpvc/?username=VitorViana98)
-</div>
+<img align="right" width="124" src="https://pbs.twimg.com/profile_images/1293708642093588480/7dOW7ybA_400x400.jpg" alt="Monkey D. Luffy smiling" />
+
+# Vitor Viana Barbosa
+
+**Software Developer · Electrical Engineer**
+
+Rio de Janeiro, Brazil
+
+<br clear="right" />
+
+---
+
+### Toolkit
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript" title="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="38" height="38" alt="React" title="React" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="38" height="38" alt="C#" title="C#" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="38" height="38" alt="Node.js" title="Node.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="38" height="38" alt=".NET" title=".NET" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="38" height="38" alt="Python" title="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="38" height="38" alt="PostgreSQL" title="PostgreSQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="38" height="38" alt="Docker" title="Docker" />
+</p>
+
+---
+
+### Public project
+
+**[Índices Brasil](https://indicesbrasil.pages.dev)**  
+329 months of IPCA and BCB Focus data, with traceable decompositions and summaries.
+
+---
+
+[Website](https://www.vitorvianabarbosa.com) · [LinkedIn](https://www.linkedin.com/in/vitorvianabarbosa) · [Email](mailto:vitorvianabarbosa@gmail.com)
